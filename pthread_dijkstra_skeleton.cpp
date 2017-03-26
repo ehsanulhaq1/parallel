@@ -1,5 +1,5 @@
 /* Name: HAQ, EHSAN-UL
- * ID: 20441250
+ * ID: 
  * Email:  euhaq@connect.ust.hk
  */
 
@@ -229,7 +229,6 @@ struct dijekstraArguments{
 
 
 void dijkstra(int N, int p, int *mat, int *all_dist, int *all_pred) {
-    //------your code starts from here------
 
 
 
